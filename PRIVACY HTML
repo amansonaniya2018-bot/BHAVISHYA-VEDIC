@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Bhavishya Vedic App</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; color: #333; max-width: 800px; }
+        h1 { color: #d35400; }
+        h2 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for Bhavishya Vedic App</h1>
+    <p><strong>Effective Date:</strong> November 14, 2026</p>
+
+    <p>At <strong>Bhavishya Vedic App</strong>, we respect your privacy and are committed to protecting any information you share with us.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>To provide astrological calculations, kundli matching, and location-based features, our app may temporarily process:</p>
+    <ul>
+        <li>Name and basic details entered by the user.</li>
+        <li>Gotra and birth/location details.</li>
+        <li>GPS location coordinates (only to provide specific regional features).</li>
+    </ul>
+
+    <h2>2. How We Use Information</h2>
+    <p>The information collected is used solely in real-time on your device to generate your horoscope, astrological matching, and local village/location insights. <strong>We do not permanently store or retain any personal data on external servers.</strong></p>
+
+    <h2>3. Data Deletion & User Control</h2>
+    <p>Since personal data is processed strictly in real-time and not permanently stored on our servers, no persistent server-side data exists to be deleted. Users can clear any local cache directly from their phone settings or simply uninstall the app.</p>
+
+    <h2>4. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.</p>
+
+    <h2>5. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
+    <p><strong>Email:</strong> your-email@gmail.com</p>
+
+</body>
+</html>
